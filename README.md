@@ -1,2 +1,4 @@
 # Holberton-code-session
-Code session during my holberton school journey 
+Hi everyone
+Welcome to my GitHub
+Here is my code session during my holberton school journey 
